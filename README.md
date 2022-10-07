@@ -1,4 +1,4 @@
-# Piscine Swift iOS Piscine
+# :iphone: Piscine Swift iOS Piscine
 
 ## Creating 12 iOS Apps
 
@@ -28,7 +28,7 @@
 
 <br>
 
-# Piscine Information
+# :information_source: Piscine Information
 
 ## What is a Piscine?
 
