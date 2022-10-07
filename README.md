@@ -14,12 +14,12 @@
 
 - Day 06 - MotionCube (Shape Game App)
 
-- Day 07 - 
+- Day 07 - Siri App
 
-- Day 08
+- Day 08 - CoreData App
 
-- Day 09
+- Day 09 - Personal Diary App
 
-- Rush 00
+- Rush 00 - Forum App
 
-- Rush 01
+- Rush 01 - GPS App
