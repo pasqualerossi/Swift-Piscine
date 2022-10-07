@@ -1,23 +1,25 @@
-Day 00
+# iscine Swift iOS Piscine
 
-Day 01
+- Day 00 - Calcuator App
 
-Day 02
+- Day 01 - Card Game App
 
-Day 03
+- Day 02 - Death Note (Note Taking App)
 
-Day 04
+- Day 03 - APM (Image Library App)
 
-Day 05
+- Day 04 - Tweets (Twitter Search App)
 
-Day 06
+- Day 05 - Kanto (Map Location App)
 
-Day 07
+- Day 06 - MotionCube (Shape Game App)
 
-Day 08
+- Day 07 - 
 
-Day 09
+- Day 08
 
-Rush 01
+- Day 09
 
-Rush 00 
+- Rush 00
+
+- Rush 01
