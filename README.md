@@ -1,4 +1,4 @@
-# iscine Swift iOS Piscine
+# Piscine Swift iOS Piscine
 
 - Day 00 - Calcuator App
 
