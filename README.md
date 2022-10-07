@@ -14,9 +14,9 @@
 
 - Day 06 - MotionCube (Shape Game App)
 
-- Day 07 - Siri App
+- Day 07 - Siri (Weather App)
 
-- Day 08 - CoreData App
+- Day 08 - CoreData App (Article Manager App)
 
 - Day 09 - Personal Diary App
 
