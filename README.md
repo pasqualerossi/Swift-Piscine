@@ -1,4 +1,4 @@
-# :iphone: Piscine Swift iOS Piscine
+# :iphone: Swift iOS Piscine
 
 ## Creating 12 iOS Apps
 
