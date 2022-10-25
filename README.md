@@ -2,6 +2,8 @@
 
 ## Creating 12 iOS Apps
 
+### Days 00 to 09
+
 - Day 00 - Calcuator App :1234:
 
 - Day 01 - Card Game App :hearts:
@@ -21,6 +23,8 @@
 - Day 08 - CoreData App (Article Manager App) :newspaper:
 
 - Day 09 - Personal Diary App :notebook_with_decorative_cover:
+
+### Rushes 00 and 01
 
 - Rush 00 - Forum App :speech_balloon:
 
