@@ -28,4 +28,8 @@
 
 - Rush 00 - Forum App :speech_balloon:
 
-- Rush 01 - GPS App :round_pushpin:
+- Rush 01 - Plan 42 (GPS App) :round_pushpin:
+
+### Subject PDFS
+
+[Link to Subject PDFS](https://github.com/lcorinna/Swift_piscine/tree/main/subject)
